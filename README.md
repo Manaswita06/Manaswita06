@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manaswita Mandal</h1>
+![](Manaswita06/intro/Intro.png)
 <h3 align="center">A data scientist enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manaswita06&label=Profile%20views&color=0e75b6&style=flat" alt="manaswita06" /> </p>
