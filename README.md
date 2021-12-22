@@ -8,9 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<p align="center"> <img src="https://user-images.githubusercontent.com/96064243/147045702-9337343f-8471-4595-93e3-a59dcc38ec55.png" /> </p>
+
+
 - 🔭 I’m currently working on **AppMaking**
 
-- 🌱 I’m currently learning **flutter, dart**
+- 🌱 I’m currently learning **Machine learning Foundations, Business Data Management, Tools in Data science, Data Structures, flutter, dart**
 
 - 🤝 I’m looking for help with **AppMaking**
 
@@ -21,6 +24,12 @@
 - 📫 How to reach me **manaswita14@gmail.com**
 
 - ⚡ Fun fact **Are you comedy me???? 😂😂**
+
+- 🎼🎼 Also I am passionate about music.
+
+<p align="left"> <img src="https://user-images.githubusercontent.com/96064243/147046609-2f482987-5195-4f03-8c92-d4316f0ed76e.png" /> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
