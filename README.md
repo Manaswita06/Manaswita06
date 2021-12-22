@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **AppMaking**
 
-- 👨‍💻 All of my projects are available at [https://manaswita06.github.io/](https://manaswita06.github.io/)
+- 👨‍💻 All of my projects are available at [https://manaswitaportfolio.me/](https://manaswita06.github.io/)
 
 - 💬 Ask me about **Statistics, Python, my hobbies, or anything you like**
 
